@@ -3,7 +3,7 @@
 #include <time.h>
 #include <mpi.h>
 
-#define MAZE_SIZE 30
+#define MAZE_SIZE 100
 char maze[MAZE_SIZE][MAZE_SIZE];
 
 struct Node {
@@ -146,12 +146,13 @@ int main(int argc, char **argv) {
         } else {
             printf("Caminho não Encontrado.\n");
         }
-        printf("Caminho Encontrado (ou não):\n");
+        printf("Caminho Encontrado (ou nao):\n");
         printMaze();
     }
 
     MPI_Finalize();
     return 0;
 }
+
 
 
