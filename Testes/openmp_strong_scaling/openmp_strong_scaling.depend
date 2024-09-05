@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725368000 source:c:\users\kaill\documents\projects-c\testes\openmp_strong_scaling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+

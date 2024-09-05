@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1725364966 source:c:\users\kaill\documents\projects-c\testes\teste_strong_scaling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<mpi.h>
+
+1725494162 source:c:\users\kaill\documents\projects-c\testes\mpi_strong_scaling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<mpi.h>
+
