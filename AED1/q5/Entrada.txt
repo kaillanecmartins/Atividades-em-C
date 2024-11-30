@@ -1,0 +1,21 @@
+20
+M Carlos 40
+F Joana 90
+F Carolina 20
+F Maria 10
+M Mario 18
+M Pedro 12
+M Alberto 30
+F Marcela 29
+M Miguel 95
+F Elizabeth 100
+F Camila 24
+F Brenda 18
+M Igor 40
+M Fred 30
+M Nicolas 20
+M Jonny 20
+F Claudia 19
+F Hanna 24
+F Valda 20
+M Diego 18

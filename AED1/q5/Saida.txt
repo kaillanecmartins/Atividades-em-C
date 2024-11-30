@@ -1,0 +1,3 @@
+O numero de mulheres: 10
+O numero de homens: 10
+A idade da pessoa mais velha eh: 100
